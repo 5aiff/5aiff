@@ -1,11 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Saif Ur Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5aiff&label=Profile%20views&color=0e75b6&style=flat" alt="5aiff" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5aiff" alt="5aiff" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React.js**
 
