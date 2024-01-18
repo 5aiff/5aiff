@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Saif Ur Rehman</h1>
-<h5 align="center">Hi, I’m Saif Ur Rehman, a web developer from Rawalpindi, Pakistan. I’m passionate about creating beautiful and responsive websites using HTML, CSS, and JavaScript. I’m currently learning React.js, a powerful library for building user interfaces. I love to explore new technologies and learn new things every day.You can find more of my projects on my GitHub profile. Feel free to contact me if you have any questions or feedback. I’m always open to new opportunities and collaborations.</h5>
+<h5 align="center">Hi, I’m Saif Ur Rehman, a web developer from Dera Ismail khan, Pakistan. I’m passionate about creating beautiful and responsive websites using HTML, CSS, and JavaScript. I’m currently learning Next JS, a powerful library for building user interfaces. I love to explore new technologies and learn new things every day.You can find more of my projects on my GitHub profile. Feel free to contact me if you have any questions or feedback. I’m always open to new opportunities and collaborations.</h5>
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🌱 I’m currently learning **JavaScript, React.js**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **HTML, CSS, WordPress**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, React WordPress**
 
 - 📫 How to reach me **online5aiff@gmail.com**
 
